@@ -7,10 +7,6 @@
 
 오늘 회식 때, 고기 많이 드십쇼.
 
-<<<<<<< HEAD
-메인브랜치
-=======
 
 this is a test brunch
-dfdfalkjfalkfjafasd;kfjasdlkfja
->>>>>>> test
+dfdfalkjfalkfjafasd;kfjasdlkf
