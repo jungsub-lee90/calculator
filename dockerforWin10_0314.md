@@ -23,16 +23,16 @@ wsl --set-version Ubuntu 2
 ## settings > resources > wsl integration > enable my default wsl distro checked
 
 #7. download image from docker hub
- docker search [term]
- docker pull [image name]
- 
- #8. run container 
- docker run -d(detached) -p(mapping port between a host and a container)
- docker run --name(rename) [name]
-  
- #9. commend in a container 
- docker exec -it(keep interaction with container connection) [container name] bash 
- 
+docker search [term]
+docker pull [image name]
+
+#8. run container 
+docker run -d(detached) -p(mapping port between a host and a container)
+docker run --name(rename) [name]
+
+#9. commend in a container 
+docker exec -it(keep interaction with container connection) [container name] bash 
+
 ## docker ps -al(show all containers)
 
 
