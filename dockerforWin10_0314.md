@@ -36,4 +36,11 @@ docker exec -it(keep interaction with container connection) [container name] bas
 ## docker ps -al(show all containers)
 
 
+## To stop docker 
+docker stop(generally) [container name]  
+docker kill(forcely) [container name]
+
+## wsl --shutdown(vm shutdown)
+
+
 ```
